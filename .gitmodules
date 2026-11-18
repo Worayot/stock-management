@@ -1,0 +1,6 @@
+[submodule "stock-management-frontend"]
+	path = stock-management-frontend
+	url = https://github.com/Worayot/stock-management-frontend.git
+[submodule "stock-management-backend"]
+	path = stock-management-backend
+	url = https://github.com/Worayot/stock-management-backend.git
